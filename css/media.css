@@ -1,0 +1,23 @@
+
+
+@media (min-width: 576px) {
+    .announcement__card {
+        flex-direction: row;
+        align-items: center;
+        padding: 32px;
+    }
+
+    .card__img__container {
+        width: 45%;
+        max-height: none;
+        margin-bottom: 0;
+    }
+
+    .card__content {
+        width: 90%;
+    }
+
+    .card__date {
+        margin-bottom: 8px;
+    }
+}
